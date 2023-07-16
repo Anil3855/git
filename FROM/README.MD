@@ -1,0 +1,1 @@
+FROM shoud be first instruction in your docker file.
